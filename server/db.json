@@ -1,0 +1,437 @@
+{
+  "profesis": [
+    {
+      "id": 4,
+      "value": "Head Master"
+    },
+    {
+      "id": 5,
+      "value": "Vice Principal"
+    },
+    {
+      "id": 6,
+      "value": "Cooperative"
+    },
+    {
+      "id": 7,
+      "value": "School Finance"
+    },
+    {
+      "id": 8,
+      "value": "School Admin"
+    },
+    {
+      "id": 9,
+      "value": "Teacher"
+    },
+    {
+      "id": 10,
+      "value": "Conseuling"
+    },
+    {
+      "id": 15,
+      "value": "Librarian"
+    },
+    {
+      "id": 17,
+      "value": "SuperAdmin"
+    }
+  ],
+  "feed-posts": {
+    "data": [
+      {
+        "id": 3893,
+        "feed_type": "text",
+        "feed_body": "test",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": false,
+        "activated": false,
+        "created_at": "2022-10-11T13:50:27.000000Z",
+        "created_at_label": "11 Oct 2022 20:50",
+        "user": {
+          "id": "98e477edd19f4aab8bd1508df91c1d63",
+          "name": "skins",
+          "nisn_nik": "222222222",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/MsmaR9Nucfr6Iu0Jl4cPAYr3WJayScY3su98JIR2.png",
+          "role": [
+            {
+              "id": 11,
+              "name": "Student"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 3676,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/4bHL5uu5e74gP8qu7VY86xt0An4Zapi44bEyboTN.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "59198",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3227,
+        "feed_type": "text",
+        "feed_body": "Arifudin",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-09-22T13:09:17.000000Z",
+        "created_at_label": "22 Sep 2022 20:09",
+        "user": {
+          "id": "10d8536cfc2f43d2ac14abec01776449",
+          "name": "Abdur Rohman. M.Pd",
+          "nisn_nik": "20200108",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/0JXQSiU8TqqokPPZJmShE99iT7Hwa2GtKB1MWL3u.jpg",
+          "role": [
+            {
+              "id": 5,
+              "name": "Vice Principal"
+            },
+            {
+              "id": 6,
+              "name": "Cooperative"
+            },
+            {
+              "id": 7,
+              "name": "School Finance"
+            },
+            {
+              "id": 8,
+              "name": "School Admin"
+            },
+            {
+              "id": 9,
+              "name": "Teacher"
+            },
+            {
+              "id": 10,
+              "name": "Conseuling"
+            },
+            {
+              "id": 15,
+              "name": "Librarian"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 3121,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/vDv41vmy6PojrcNifPJ4DeroZ8JJaLa61HtL9QOp.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "91905",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3226,
+        "feed_type": "text",
+        "feed_body": "berdoa",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-09-22T12:55:50.000000Z",
+        "created_at_label": "22 Sep 2022 19:55",
+        "user": {
+          "id": "98e477edd19f4aab8bd1508df91c1d63",
+          "name": "skins",
+          "nisn_nik": "222222222",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/MsmaR9Nucfr6Iu0Jl4cPAYr3WJayScY3su98JIR2.png",
+          "role": [
+            {
+              "id": 11,
+              "name": "Student"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 3120,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/EMuAecQ591orQO2Q1tfRypvRZQqlajAcG6koJn4v.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "112185",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3225,
+        "feed_type": "text",
+        "feed_body": "merenung",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-09-22T12:43:16.000000Z",
+        "created_at_label": "22 Sep 2022 19:43",
+        "user": {
+          "id": "98e477edd19f4aab8bd1508df91c1d63",
+          "name": "skins",
+          "nisn_nik": "222222222",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/MsmaR9Nucfr6Iu0Jl4cPAYr3WJayScY3su98JIR2.png",
+          "role": [
+            {
+              "id": 11,
+              "name": "Student"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 3119,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/BJjCawmvN7IQSs71VZhWdrriBmCchBJ6uWSNDsxP.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "62156",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3083,
+        "feed_type": "text",
+        "feed_body": "Siswa Top up di koperasi SMA AL-Islam",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-09-08T08:14:00.000000Z",
+        "created_at_label": "08 Sep 2022 15:14",
+        "user": {
+          "id": "33382591cdf24cc991ee487bd8f71ecf",
+          "name": "Arina winda sari",
+          "nisn_nik": "20200808",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/yp1gAV8vQJpzsGktkeu9T4IUGqu7Llo7nZNywIHG.jpg",
+          "role": [
+            {
+              "id": 11,
+              "name": "Student"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 2983,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/pX2tK9xkhMlW0GpkS8OPQ6agvnSwkS5f6C9huLkj.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "89988",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3082,
+        "feed_type": "text",
+        "feed_body": "Ruang Top up SMA AL ISLAM Krian",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-09-08T08:13:00.000000Z",
+        "created_at_label": "08 Sep 2022 15:13",
+        "user": {
+          "id": "33382591cdf24cc991ee487bd8f71ecf",
+          "name": "Arina winda sari",
+          "nisn_nik": "20200808",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/yp1gAV8vQJpzsGktkeu9T4IUGqu7Llo7nZNywIHG.jpg",
+          "role": [
+            {
+              "id": 11,
+              "name": "Student"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 2982,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/VphzaFRjMfc94QSwCpej3rvAGtZtqR9cVf2LbTuV.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "45908",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3041,
+        "feed_type": "text",
+        "feed_body": "demo products dengan kacapdin dan kepala sekolah se-Kalimantan Timur",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-08-29T13:06:08.000000Z",
+        "created_at_label": "29 Aug 2022 20:06",
+        "user": {
+          "id": "94b2ae415a3f4c56968787dddd587869",
+          "name": "Arin Audynata",
+          "nisn_nik": "33331111",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/1JDTmKmzqpOfNSQ9gzFVCbbVxTOcEHKPlCJlIBxX.jpg",
+          "role": [
+            {
+              "id": 11,
+              "name": "Student"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 2944,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/hR06eqXN3dD9txJoaNqksqxWdhM5J8QQMbgZLLPL.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "77352",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3025,
+        "feed_type": "text",
+        "feed_body": "onklas x smkn 7 Balikpapan",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-08-25T03:20:25.000000Z",
+        "created_at_label": "25 Aug 2022 10:20",
+        "user": {
+          "id": "10d8536cfc2f43d2ac14abec01776449",
+          "name": "Abdur Rohman. M.Pd",
+          "nisn_nik": "20200108",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/0JXQSiU8TqqokPPZJmShE99iT7Hwa2GtKB1MWL3u.jpg",
+          "role": [
+            {
+              "id": 5,
+              "name": "Vice Principal"
+            },
+            {
+              "id": 6,
+              "name": "Cooperative"
+            },
+            {
+              "id": 7,
+              "name": "School Finance"
+            },
+            {
+              "id": 8,
+              "name": "School Admin"
+            },
+            {
+              "id": 9,
+              "name": "Teacher"
+            },
+            {
+              "id": 10,
+              "name": "Conseuling"
+            },
+            {
+              "id": 15,
+              "name": "Librarian"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 2929,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/JLsxOymni4ra2Vyme4AWfzEon5GHxjotrU7XWPRq.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "72991",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3019,
+        "feed_type": "text",
+        "feed_body": "gmeet onklas x smkn 6 Balikpapan",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-08-23T13:29:54.000000Z",
+        "created_at_label": "23 Aug 2022 20:29",
+        "user": {
+          "id": "98e477edd19f4aab8bd1508df91c1d63",
+          "name": "skins",
+          "nisn_nik": "222222222",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/MsmaR9Nucfr6Iu0Jl4cPAYr3WJayScY3su98JIR2.png",
+          "role": [
+            {
+              "id": 11,
+              "name": "Student"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 2923,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/5Uwt7ZT6hWZpJNyLd5vIuFAQ3hzUoVK0AbOrT7hO.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "109041",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      },
+      {
+        "id": 3005,
+        "feed_type": "text",
+        "feed_body": "sma al Islam",
+        "feed_title": "",
+        "feed_author": "",
+        "feed_thumbnail_image": "https:\/\/assets.onklas.id\/sekolah\/default.png",
+        "published": true,
+        "activated": true,
+        "created_at": "2022-08-20T04:14:40.000000Z",
+        "created_at_label": "20 Aug 2022 11:14",
+        "user": {
+          "id": "98e477edd19f4aab8bd1508df91c1d63",
+          "name": "skins",
+          "nisn_nik": "222222222",
+          "avatar": "https:\/\/assets.onklas.id\/avatar\/ea5fb72911e4401981c568a837ed384e\/MsmaR9Nucfr6Iu0Jl4cPAYr3WJayScY3su98JIR2.png",
+          "role": [
+            {
+              "id": 11,
+              "name": "Student"
+            }
+          ]
+        },
+        "file": {
+          "feed_files_id": 2910,
+          "feed_files_path": "https:\/\/assets.onklas.id\/feed\/ea5fb72911e4401981c568a837ed384e\/Fq8YdwOyPZvIauhJtnSrYtjD8ElEUVh20L0NO0No.jpg",
+          "feed_files_type": "image\/jpeg",
+          "feed_files_format": "jpg",
+          "feed_files_size": "97103",
+          "feed_files_width": "720",
+          "feed_files_height": "720"
+        }
+      }
+    ],
+    "links": {
+      "first": "https:\/\/api.onklas.id\/api\/school\/sosmed\/feed-posts?limit=10&page=1",
+      "last": "https:\/\/api.onklas.id\/api\/school\/sosmed\/feed-posts?limit=10&page=83",
+      "prev": null,
+      "next": "https:\/\/api.onklas.id\/api\/school\/sosmed\/feed-posts?limit=10&page=2"
+    },
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 83,
+      "path": "https:\/\/api.onklas.id\/api\/school\/sosmed\/feed-posts",
+      "per_page": "10",
+      "to": 10,
+      "total": 825
+    }
+  }
+}

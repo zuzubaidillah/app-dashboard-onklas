@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&family=Ubuntu:wght@300;400&display=swap');
+body{
+    font-family: Rubik;
+}
+
+.contact-img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.contact-img-big{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.body-10 {
+    line-height: 1rem;
+    font-size: .675rem;
+    font-weight: 400;
+}
+
+.body-12 {
+    line-height: 1.313rem;
+    font-size: .875rem;
+    font-weight: 400;
+}
+
+.body-14 {
+    line-height: 1.313rem;
+    font-size: .875rem;
+    font-weight: 400;
+}
+
+.body-16 {
+    line-height: 1.313rem;
+    font-size: .875rem;
+    font-weight: 400;
+}
+
+.body-18 {
+    line-height: 1.313rem;
+    font-size: .875rem;
+    font-weight: 400;
+}
+
+.body-20 {
+    line-height: 1.313rem;
+    font-size: .875rem;
+    font-weight: 400;
+}
